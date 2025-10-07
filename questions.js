@@ -52,12 +52,12 @@ const questions = [
   {
     "question": "11. What is the VY (Best Rate of Climb)?",
     "options": ["a) 88 KIAS", "b) 84 KIAS", "c) 108 KIAS", "d) 73 KIAS"],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "12. What is the VX (Best Angle of Climb)?",
     "options": ["a) 88 KIAS", "b) 92 KIAS", "c) 108 KIAS", "d) 84 KIAS"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "13. What is the VG (Best Glide Speed)?",
@@ -102,7 +102,7 @@ const questions = [
   {
     "question": "21. What is the Go-Around Speed at full power?",
     "options": ["a) 80 KIAS", "b) 88 KIAS", "c) 85 KIAS", "d) 73 KIAS"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "22. What is the Autopilot operating range?",
@@ -139,4 +139,5 @@ const questions = [
     "options": ["a) 2700 hp", "b) 1000 hp", "c) 310 hp", "d) 3000 hp"],
     "correct": 2
   }
+
 ];
